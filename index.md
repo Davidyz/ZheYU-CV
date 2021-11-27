@@ -7,7 +7,8 @@ Language spoken: English, Chinese (Mandarin) (primary)
 ### Contact Details
 Email: 
 <a href="mailto:zhe.yu.20@ucl.ac.uk">zhe.yu.20@ucl.ac.uk</a>  
-[Telegram](https://telegram.org): https://t.me/David_yz
+[Telegram](https://telegram.org): https://t.me/David_yz  
+Github: [https://github.com/Davidyz](https://github.com/Davidyz)
 
 ## Education
 September 2020 ~ June 2023: BSc Computer Science, UCL 
@@ -66,3 +67,13 @@ courses at my college, I would love to have a chance to study from the
 top-of-the-class system engineers and OS maintainer about how a large scale,
 production-ready operating system is deployed and maintained.
 system is maintained.
+
+### 3. Software Engineering
+
+Having witnessed the growth of Windows OS, Android OS on mobiles and a number of
+other large-scale software projects, it has been a mysterious topic to me how
+the development team organised the workload to make it maintainable and
+scalable, as well as excellent back-ward compatibility. Therefore, it would be a
+pleasure for me if I get to work with such people on a piece of real-life, 
+large-scale program so that I can have some understanding about how they are
+constructed from scratch.
